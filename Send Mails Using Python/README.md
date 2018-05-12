@@ -1,0 +1,1 @@
+In order to use this programe ur ur google account should be less secure means u are giving permission to third party program to access your google account so if u have 2 Factor-Authentication then u should disable that and make ur account less secure.
